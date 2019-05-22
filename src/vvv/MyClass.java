@@ -6,6 +6,6 @@ package vvv;
  */
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println("vvv1");
+        System.out.println("vvv2");
     }
 }
